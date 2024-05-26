@@ -1,6 +1,7 @@
 # SI_2024_lab2_223168
 2. Control Flow Graph
 1. ![image](https://github.com/AleksandraJosheska/SI_2024_lab2_223168/assets/165596236/5c877834-c14b-48cc-8bd4-63305dec3102)
+ ![CFG2](https://github.com/AleksandraJosheska/SI_2024_lab2_223168/assets/165596236/cc79815d-d8cc-4988-9ad9-891a9e0464a4)
 
 3. Цикломатската комплексност 
 Цикломатската комплексност е 10,
