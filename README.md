@@ -9,7 +9,6 @@
 P - број на предикатни јазли
 во овој случак P=9
 P + 1 = 9 + 1 = 10
-
 4.Tест случаи според Every Branch критериумот
 1.allItems=null,payment=100
  Кога имаме празна листа,враќа allItems list can't be null!\
