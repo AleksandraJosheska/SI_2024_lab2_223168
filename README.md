@@ -41,6 +41,8 @@ P + 1 = 9 + 1 = 10
  Враќа false (збирот е 100 + 20 = 120, што е повеќе од плаќањето)
 
 5.Tест случаи според Multiple Condition критериумот за условот    if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0)== '0')
+
+
 Т                                   T                                  T
      
 T                                   T                                  F
@@ -48,6 +50,8 @@ T                                   T                                  F
 Т                                   F                                  F
    
 F                                   T                                  T
+ 
+ 
  Тест случаи:
  1.price = 350; discount = 0.8;
  barcode = 07828;
